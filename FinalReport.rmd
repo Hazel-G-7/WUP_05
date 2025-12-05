@@ -33,6 +33,8 @@ I've noticed that this assignment is using the 'Categorical-Categorical' helper 
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
+When I observed the chart, I realized that the people who got the drug, which is about 58%, actually got aids. And shockingly, those who got the placebo, which are 40%, and got aids are lower than the ones who got drugs and have aids. This told me that the drug is simply not working and is giving the opposite of what it is supposed to give. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
