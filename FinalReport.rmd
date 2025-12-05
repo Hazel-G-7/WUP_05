@@ -39,6 +39,8 @@ When I observed the chart, I realized that the people who got the drug, which is
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+After looking at the numerical results, I saw that it agrees with the graphical results and proves more that the drug(s) is not working properly. As seen, 58.82% of people that got the drug still got aids. 
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
